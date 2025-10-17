@@ -61,9 +61,3 @@ This Excel dashboard demonstrates strong analytical and visualization skills —
 It highlights the ability to create clean, functional dashboards for **data-driven decision making**, ideal for roles in **data analytics and business intelligence**.  
 
 ---
-
-### ✍️ Author  
-**Shreya Thekkiniyedath Kudallvalli**  
-*Aspiring Data Analyst in the UK*  
-[GitHub Profile](https://github.com/SHREYA-TK)
-
