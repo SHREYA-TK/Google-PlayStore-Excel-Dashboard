@@ -1,2 +1,104 @@
-# Google-PlayStore-Excel-Dashboard
-Interactive Excel dashboard analyzing Google Play Store apps with slicers, KPI cards, and pivot charts to uncover engagement and monetization insights.
+![Project Title](images/title.png)
+
+# 📊 Google Play Store Excel Dashboard  
+
+### 🧠 Project Summary  
+This project showcases an **interactive Excel dashboard** analyzing Google Play Store apps to uncover key insights on **category trends, update frequency, user engagement, ratings, and monetization patterns**.  
+
+The goal was to visualize which app categories dominate the market, how update frequency affects engagement, and how free vs paid apps perform across different metrics.  
+
+The dashboard helps **product and marketing teams** make data-driven decisions about app performance, strategy, and user behavior.  
+
+---
+
+### 🎯 Objectives  
+- Understand category-wise distribution and popularity of apps  
+- Compare performance between **Free vs Paid** apps  
+- Identify relationships between **update status and user engagement**  
+- Track installs, reviews, and average ratings using KPI cards and visuals  
+
+---
+
+### 🛠️ Tools & Techniques  
+**Tool:** Microsoft Excel  
+**Features Used:** Pivot Tables, Slicers, KPI Cards, Conditional Formatting, Charts (Bar, Pie, Column)  
+**Data Source:** [Google Play Store Dataset (Kaggle)](https://www.kaggle.com/lava18/google-play-store-apps)  
+**Skills Demonstrated:** Data Cleaning, EDA, Visualization, Dashboard Design  
+
+---
+
+### 📂 Project Folder Structure  
+Google-PlayStore-Excel-Dashboard/
+│
+├── docs/
+│ ├── Final Dashboard/
+│ │ └── 01_Google_PlayStore_Dashboard.xlsx
+│ │
+│ ├── Behind the Dashboard/
+│ │ ├── Initial_Dashboard_Design.xlsx
+│ │ ├── Raw_Data.xlsx
+│ │ ├── Cleaned_Data.xlsx
+│ │ └── Data_Cleaning_Log.xlsx
+│
+├── images/
+│ ├── dashboard_filtered.png
+│ ├── insight1_updates&engagement.png
+│ ├── insight2_topcategories.png
+│ ├── app_distribution.png
+│ ├── key_insights.png
+│ ├── kpi_cards.png
+│ ├── slicers.png
+│ └── title.png
+│
+└── README.md
+
+
+---
+
+### 🗂️ Folder Descriptions  
+**`docs`** — Contains all Excel workbooks used and created during the project.  
+- **Final Dashboard** — The completed interactive Excel dashboard visualizing installs, reviews, and engagement metrics.  
+- **Behind the Dashboard** — Supporting files showing raw data, cleaned data, data cleaning logs, and the initial purple dashboard design.  
+
+**`images`** — Contains visuals used in this README to illustrate charts, KPIs, and key insights.  
+
+---
+
+### 📈 Dashboard Preview  
+
+Here are some visuals from the final dashboard 👇  
+
+#### Main Dashboard View  
+![Dashboard Overview](images/dashboard_filtered.png)
+
+#### Insight 1 — Update Frequency vs User Engagement  
+![Insight 1](images/insight1_updates&engagement.png)
+
+#### Insight 2 — Top Performing Categories  
+![Insight 2](images/insight2_topcategories.png)
+
+#### KPI Cards and Filters  
+![KPI Cards](images/kpi_cards.png)  
+![Slicers](images/slicers.png)  
+
+---
+
+### 💡 Key Insights  
+- **Recently updated apps** show higher user engagement (more installs and reviews).  
+- **Free apps** dominate the market with ~93% share but generate lower revenue compared to paid apps.  
+- **Top categories** like Productivity, Tools, and Entertainment drive maximum installs.  
+- Regular updates and strong ratings correlate with better app performance.  
+
+---
+
+### 🧩 Conclusion  
+This Excel dashboard demonstrates strong analytical and visualization skills — from **data cleaning and transformation** to **dashboard design** and **insight generation**.  
+
+It highlights the ability to create clean, functional dashboards for **data-driven decision making**, ideal for roles in **data analytics and business intelligence**.  
+
+---
+
+### ✍️ Author  
+**Shreya Thekkiniyedath Kudallvalli**  
+*Aspiring Data Analyst in the UK*  
+[GitHub Profile](https://github.com/SHREYA-TK)
