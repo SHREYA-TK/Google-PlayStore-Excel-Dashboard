@@ -27,42 +27,6 @@ The dashboard helps **product and marketing teams** make data-driven decisions a
 
 ---
 
-### 📂 Project Folder Structure  
-Google-PlayStore-Excel-Dashboard/
-│
-├── docs/
-│ ├── Final Dashboard/
-│ │ └── 01_Google_PlayStore_Dashboard.xlsx
-│ │
-│ ├── Behind the Dashboard/
-│ │ ├── Initial_Dashboard_Design.xlsx
-│ │ ├── Raw_Data.xlsx
-│ │ ├── Cleaned_Data.xlsx
-│ │ └── Data_Cleaning_Log.xlsx
-│
-├── images/
-│ ├── dashboard_filtered.png
-│ ├── insight1_updates&engagement.png
-│ ├── insight2_topcategories.png
-│ ├── app_distribution.png
-│ ├── key_insights.png
-│ ├── kpi_cards.png
-│ ├── slicers.png
-│ └── title.png
-│
-└── README.md
-
-
----
-
-### 🗂️ Folder Descriptions  
-**`docs`** — Contains all Excel workbooks used and created during the project.  
-- **Final Dashboard** — The completed interactive Excel dashboard visualizing installs, reviews, and engagement metrics.  
-- **Behind the Dashboard** — Supporting files showing raw data, cleaned data, data cleaning logs, and the initial purple dashboard design.  
-
-**`images`** — Contains visuals used in this README to illustrate charts, KPIs, and key insights.  
-
----
 
 ### 📈 Dashboard Preview  
 
@@ -102,3 +66,4 @@ It highlights the ability to create clean, functional dashboards for **data-driv
 **Shreya Thekkiniyedath Kudallvalli**  
 *Aspiring Data Analyst in the UK*  
 [GitHub Profile](https://github.com/SHREYA-TK)
+
